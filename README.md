@@ -23,21 +23,22 @@ pip install -r requirements.txt
 ```shell
 current_dataset=rest16
 # You can change CUDA_VISIBLE_DEVICES to suit your device 
-CUDA_VISIBLE_DEVICES=0 python main.py --dataset $current_dataset \
-																			--use_sent_flag \
-																			--use_prompt_flag \
-																			--use_augmentation \
-																			--token_length 128 \
-																			--n_gpu 0 \
-																			--do_train \
-																			--do_direct_eval \
-																			--max_seq_length 256 \
-																			--E_I ALL \
-																			--train_batch_size 16 \
-																			--gradient_accumulation_steps 1 \
-																			--eval_batch_size 16  \
-																			--learning_rate 1e-4 \
-																			--num_train_epochs 20 
+CUDA_VISIBLE_DEVICES=0 python main.py \
+--dataset $current_dataset \
+--use_sent_flag \
+--use_prompt_flag \
+--use_augmentation \
+--token_length 128 \
+--n_gpu 0 \
+--do_train \
+--do_direct_eval \
+--max_seq_length 256 \
+--E_I ALL \
+--train_batch_size 16 \
+--gradient_accumulation_steps 1 \
+--eval_batch_size 16  \
+--learning_rate 1e-4 \
+--num_train_epochs 20 
 ```
 
 We strongly recommend running the **run.sh** file directly for this step.
@@ -51,23 +52,24 @@ current_dataset=rest16
 cluster=30
 # You can change CUDA_VISIBLE_DEVICES to suit your device 
 for MYCAT in $(seq 0 $((MYNUM-1))); do
-        CUDA_VISIBLE_DEVICES=0 python main.py --dataset $current_dataset \
-        																			--use_sent_flag \
-        																			--use_prompt_flag \
-        																			--use_augmentation \
-        																			--prefix_tuning \
-        																			--cate_type "$MYCAT" \
-        																			--num_clusters $cluster \
-        																			--token_length 80 \
-        																			--n_gpu 0 \
-        																			--do_train \
-        																			--max_seq_length 256 \
-        																			--E_I ALL \
-        																			--train_batch_size 32 \
-        																			--gradient_accumulation_steps 1 \
-        																			--eval_batch_size 32  \
-        																			--learning_rate 1e-4 \
-        																			--num_train_epochs 20
+        CUDA_VISIBLE_DEVICES=0 python main.py \
+        --dataset $current_dataset \
+        --use_sent_flag \
+        --use_prompt_flag \
+        --use_augmentation \
+        --prefix_tuning \
+        --cate_type "$MYCAT" \
+        --num_clusters $cluster \
+        --token_length 80 \
+        --n_gpu 0 \
+        --do_train \
+        --max_seq_length 256 \
+        --E_I ALL \
+        --train_batch_size 32 \
+        --gradient_accumulation_steps 1 \
+        --eval_batch_size 32  \
+        --learning_rate 1e-4 \
+        --num_train_epochs 20
 done
 ```
 
@@ -82,24 +84,24 @@ cluster=30
 current_dataset=rest16
 # You can change CUDA_VISIBLE_DEVICES to suit your device 
 CUDA_VISIBLE_DEVICES=0 python main.py \
-											--dataset $current_dataset \
-											--use_sent_flag \
-											--use_prompt_flag \
-                      --use_augmentation \
-                      --prefix_tuning \
-                      --dynamic \
-                      --num_clusters $cluster \
-                      --token_length 80 \
-                      --n_gpu 0 \
-											--do_train \
-											--do_direct_eval \
-											--max_seq_length 256 \
-											--E_I ALL \
-											--train_batch_size 32 \
-											--gradient_accumulation_steps 1 \
-											--eval_batch_size 32  \
-											--learning_rate 1e-4 \
-											--num_train_epochs 20
+--dataset $current_dataset \
+--use_sent_flag \
+--use_prompt_flag \
+--use_augmentation \
+--prefix_tuning \
+--dynamic \
+--num_clusters $cluster \
+--token_length 80 \
+--n_gpu 0 \
+--do_train \
+--do_direct_eval \
+--max_seq_length 256 \
+--E_I ALL \
+--train_batch_size 32 \
+--gradient_accumulation_steps 1 \
+--eval_batch_size 32  \
+--learning_rate 1e-4 \
+--num_train_epochs 20
 ```
 
 After the training is complete, you can in see the final model results.
@@ -114,5 +116,5 @@ After the training is complete, you can in see the final model results.
 
 - We open-sourced our augmented data, which was augmented with the following process:
 
-  ![data augment](./data augment.png)
+  ![data augment](./data_augment.png)
 
