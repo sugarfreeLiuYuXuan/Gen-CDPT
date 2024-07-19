@@ -1,0 +1,443 @@
+ASPECT: null. CATEGORY: restaurant general. OPINION: worth. SENTIMENT: positive #####  . you definitely will not be disappointed , it is worth the trip from manhattan . ##### IAEO
+ASPECT: beer, beer. CATEGORY: drinks quality, drinks quality. OPINION: , and. SENTIMENT: positive, positive #####  . my wife had a beer , and i had a beer , and they were both great . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . we will never return . ##### IAIO
+ASPECT: scooner or later. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . . . will prob ' not go back on the scooner or later . ##### EAIO
+ASPECT: service. CATEGORY: service general. OPINION: quick. SENTIMENT: positive #####  . the service was quick . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: disappointed. SENTIMENT: negative #####  . i was really looking forward to trying it out and was very disappointed . ##### IAEO
+ASPECT: food, salsa. CATEGORY: food quality, food quality. OPINION: fine, fine. SENTIMENT: positive, positive #####  . the food is fine , the salsa is fine . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  go back again . ##### IAIO
+ASPECT: food, filet mignon. CATEGORY: food quality, food quality. OPINION: good, best. SENTIMENT: positive, positive #####  , positive ##### EAEO
+ASPECT: italian restaurant, italian restaurant. CATEGORY: restaurant general, restaurant general. OPINION: wonderful, happy. SENTIMENT: positive, positive #####  . i came across this italian restaurant on a sunday afternoon and i ' m so glad i stumbled upon it . . . it was a wonderful experience - - i ' m even thinking of going back there for new years eve . . . happy new year ! ##### EAEO
+ASPECT: place, pizza, coffee. CATEGORY: ambience general, food quality, food quality. OPINION: cool, best, best. SENTIMENT: positive, positive, positive #####  . this is a cool place to hang out , have pizza and coffee , and the best you ca n ' t go wrong with pizza or coffee . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: neutral #####  , i ' d go back again but i would n ' t go out of my way to do so . ##### IAIO
+ASPECT: fish. CATEGORY: food styleoptions. OPINION: wide. SENTIMENT: positive #####  . fish comes with a wide variety of sides to choose from . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: compliment. SENTIMENT: positive #####  . keep up the complimentary dishes ! ##### IAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . we were n ' t offered any explanation . ##### IAIO
+ASPECT: selection of sakes. CATEGORY: drinks styleoptions. OPINION: great. SENTIMENT: positive #####  . . . there is a great selection of sakes . ##### EAEO
+ASPECT: sound views. CATEGORY: location general. OPINION: gorgeous. SENTIMENT: positive #####  . . . gorgeous sound views ##### EAEO
+ASPECT: ingrediants. CATEGORY: food quality. OPINION: fresh. SENTIMENT: positive #####  . they use really fresh ingrediants . ##### EAEO
+ASPECT: waiter. CATEGORY: service general. OPINION: non - existent. SENTIMENT: negative #####  . waiter ' s non - existent attitude made for a very unpleasant experience . ##### EAEO
+ASPECT: manager. CATEGORY: service general. OPINION: disappointment. SENTIMENT: negative #####  . the manager was a huge disappointment . ##### EAEO
+ASPECT: sushi, restaurant. CATEGORY: food quality, restaurant general. OPINION: freshest, love. SENTIMENT: positive, positive #####  . i love this restaurant for the freshest sushi i have ever had . ##### EAEO
+ASPECT: rolls. CATEGORY: food quality. OPINION: complex. SENTIMENT: positive #####  . the rolls are a complex , wonderful combination of flavors and textures . ##### EAEO
+ASPECT: enchiladas, chicken soup. CATEGORY: food quality, food quality. OPINION: love, love. SENTIMENT: positive, positive #####  . i love the enchiladas and the chicken soup . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: tasty. SENTIMENT: positive #####  . i was a little overwhelmed at first but everything tasted so good i kept going back for more . ##### IAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: perfection. SENTIMENT: positive #####  . it is perfection all the way around . ##### IAEO
+ASPECT: regular menu, regular menu. CATEGORY: food quality, food quality. OPINION: above average, not worth. SENTIMENT: neutral, neutral #####  . on the regular menu , it ' s above average , but not worth a trip from manhattan . ##### EAEO
+ASPECT: murphy ' s. CATEGORY: restaurant miscellaneous. OPINION: amazing. SENTIMENT: positive #####  . i ' ve been to murphys in manhattan and murphys in brooklyn , and the brooklyn location is amazing ! ##### EAEO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: reasonable. SENTIMENT: positive #####  . . . and i found the food to be very good - hearty and tasty - at very reasonable prices . ##### IAEO
+ASPECT: service. CATEGORY: service general. OPINION: great. SENTIMENT: positive #####  . i was charged full price and the service was great . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: sad. SENTIMENT: negative #####  . i was so looking forward to trying this place , and i was so disappointed when i arrived that i was actually a bit sad . ##### IAEO
+ASPECT: green tea creme brulee. CATEGORY: food quality. OPINION: better. SENTIMENT: positive #####  . mine was good , the green tea creme brulee was better . ##### EAEO
+ASPECT: chicken curry, chicken tikka masala. CATEGORY: food quality, food quality. OPINION: favorite, favorite. SENTIMENT: positive, positive #####  . . . my favorite chicken curry and chicken tikka masala . ##### EAEO
+ASPECT: sushi, sushi. CATEGORY: food prices, food quality. OPINION: n ' t the cheapest, worth. SENTIMENT: neutral, positive #####  : n ' t the cheapest sushi in new york , but worth the money . ##### EAEO
+ASPECT: service. CATEGORY: service general. OPINION: stellar. SENTIMENT: positive #####  . service was stellar , ##### EAEO
+ASPECT: tuna. CATEGORY: food quality. OPINION: best. SENTIMENT: positive #####  . the best tuna i have had in a long time . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  will not return ##### IAIO
+ASPECT: miso soup. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . the miso soup was really good , the tempura was ok but the miso soup was really good . ##### EAIO
+ASPECT: meal, fish on the omikase platter, fish on the omikase platter. CATEGORY: food quality, food quality, food quality. OPINION: great, decadent, perfect. SENTIMENT: positive, positive, positive #####  . my wife had the fish on the omikase platter and i had the fish on the omikase platter and it was great , decadent and perfect ! ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: good. SENTIMENT: positive #####  . i think the staff here really try to give good service . ##### IAEO
+ASPECT: appetizer, creme brulee, creme brulee. CATEGORY: food quality, food quality, food quality. OPINION: interesting, savory, delicious. SENTIMENT: positive, positive, positive #####  . we found the appetizer of creme brulee to be interesting , savory and delicious . ##### EAEO
+ASPECT: side of potatoes, labne  yogurt dip . CATEGORY: food quality, food quality. OPINION: die for, die for. SENTIMENT: positive, positive #####  . the labne yogurt dip is out of this world , the side of potatoes that comes with it is absolutely die for . ##### EAEO
+ASPECT: management, waitstaff. CATEGORY: service general, service general. OPINION: null, null. SENTIMENT: negative, negative #####  i was with four other people and we all felt the same way : the management does n ' t care , the waitstaff does n ' t care . ##### EAIO
+ASPECT: music, staff. CATEGORY: ambience general, service general. OPINION: awesome, great. SENTIMENT: positive, positive #####  . awesome music and the staff is great ! ##### EAEO
+ASPECT: winelist. CATEGORY: drinks styleoptions. OPINION: best. SENTIMENT: positive #####  . try the winelist - the best in manhattan . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: snotty. SENTIMENT: negative #####  . be warned , the staff is snotty if you do n ' t look like you belong there . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: average. SENTIMENT: negative #####  . the food is just average . ##### EAEO
+ASPECT: null, null. CATEGORY: restaurant prices, food styleoptions. OPINION: null, null. SENTIMENT: negative, negative #####  . there is no choice but to get the omakase . ##### IAIO
+ASPECT: food, lunch. CATEGORY: food quality, food quality. OPINION: incredible, inconsistent. SENTIMENT: positive, negative #####  . . . the food is incredible for lunch , but a little inconsistent for dinner . ##### EAEO
+ASPECT: staff. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  : what is with this staff ! ##### EAIO
+ASPECT: place. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  you should check this place out . ##### EAIO
+ASPECT: null, null, null, null. CATEGORY: food quality, food quality, ambience general, ambience general. OPINION: fresh, delicious, welcoming, relaxing. SENTIMENT: positive, positive, positive, positive #####  . the fresh fish is delicious , the place is welcoming and relaxing . ##### IAEO
+ASPECT: null. CATEGORY: ambience general. OPINION: null. SENTIMENT: positive #####  the service is good , the decor is nice , and the food is good . ##### IAIO
+ASPECT: pancakes, pancakes. CATEGORY: food styleoptions, food prices. OPINION: inventive, over - priced. SENTIMENT: positive, negative #####  . . . the pancakes are very inventive but a little over - priced . ##### EAEO
+ASPECT: mioposto. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  : do n ' t waste your time or money on this place . ##### EAIO
+ASPECT: place. CATEGORY: restaurant general. OPINION: not a bad. SENTIMENT: positive #####  . i ' ve been here several times , and i must say , i ' m glad i found this place . ##### EAEO
+ASPECT: waiters. CATEGORY: service general. OPINION: nicest. SENTIMENT: positive #####  . the waiters are the nicest you will ever find . ##### EAEO
+ASPECT: food, service. CATEGORY: food quality, service general. OPINION: best, phenominal. SENTIMENT: positive, positive #####  , positive . i have to say that the food was the best i have ever had , and the service was phenominal . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: fresh. SENTIMENT: positive #####  . great fish , fresh shrimp , and an amazing selection of oysters . ##### IAEO
+ASPECT: exotic fish, plate. CATEGORY: food quality, food prices. OPINION: null, null. SENTIMENT: negative, negative #####  . this restaurant has a great selection of exotic fish , which is a shame because i have no idea what half the things on the plate are ! ##### EAIO
+ASPECT: rice, tuna. CATEGORY: food quality, food quality. OPINION: dry, n ' t so fresh. SENTIMENT: negative, negative #####  . the rice was dry and the tuna was n ' t so fresh . ##### EAEO
+ASPECT: chickpeas. CATEGORY: food quality. OPINION: good. SENTIMENT: positive #####  . my wife and i shared a plate of chickpeas which was very good . ##### EAEO
+ASPECT: food, margaritas, waitress. CATEGORY: food quality, food quality, service general. OPINION: great, great, busy. SENTIMENT: positive, positive, negative #####  . i ' ve been there on a sunday afternoon , it ' s busy , the food and margaritas are great , the waitress ' s a bit busy , but that ' s ok , you ca n ' t have everything . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . the wait for our table was around 30 minutes . ##### IAIO
+ASPECT: apps. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . i would go back just for the apps , especially the delicious crabmeat fritters . ##### EAEO
+ASPECT: draft and bottle selection, pizza. CATEGORY: drinks styleoptions, food quality. OPINION: great, great. SENTIMENT: positive, positive #####  . . . the pizza is great the draft and bottle selection is also great . ##### EAEO
+a large pepperoni ' s had a bit of crust left on it but we did n ' t mind because it was so thick and so yum . ##### EAEO
+ASPECT: asparagus, asparagus. CATEGORY: food quality, food quality. OPINION: incredible, perfectly prepared. SENTIMENT: positive, positive #####  . incredible asparagus , perfectly prepared . ##### EAEO
+ASPECT: sushi, restaurant. CATEGORY: food quality, restaurant prices. OPINION: good, moderately priced. SENTIMENT: negative, negative #####  , negative : the sushi is very good but moderately priced does not mean it should come with a side of attitude . ##### EAEO
+ASPECT: manager. CATEGORY: service general. OPINION: disappointment. SENTIMENT: negative #####  . i recently had a major disappointment with the manager who was rude and disrespectful . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: impressed. SENTIMENT: positive #####  . we were very impressed . ##### IAEO
+ASPECT: staff. CATEGORY: service general. OPINION: friendly. SENTIMENT: positive #####  . i ca n ' t remember the last time i had such a pleasant experience - - from the food to the staff ( especially the friendly staff who did n ' t make me feel like a dumb nose - - thank you ) . ##### EAEO
+ASPECT: service. CATEGORY: service general. OPINION: great. SENTIMENT: positive #####  . great service . ##### EAEO
+ASPECT: staff, decor, decor. CATEGORY: service general, ambience general, ambience general. OPINION: friendly, ethic, colorful. SENTIMENT: positive, positive, positive #####  . you will find it friendly and very ethic , colorful , warm and nice . . . . . . the decor , as well as the food is the best in the village . ##### EAEO
+ASPECT: staff members. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . my experience was actually ruined by the fact that none of the staff members could answer 2 simple questions . ##### EAIO
+ASPECT: selection, sushi. CATEGORY: food styleoptions, food styleoptions. OPINION: innovative, nice. SENTIMENT: positive, positive #####  . there is an innovative selection of sushi . ##### EAEO
+ASPECT: breakfast. CATEGORY: food quality. OPINION: famous. SENTIMENT: positive #####  . it is famous for its breakfast . ##### EAEO
+ASPECT: sushi. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . i had the sushi and it was delicious . ##### EAEO
+ASPECT: location. CATEGORY: location general. OPINION: null. SENTIMENT: negative #####  . this place is okay , but i would not go back unless someone else insisted and the location was convenient . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  , you should come here . ##### IAIO
+ASPECT: bartenders. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  . the bartenders do n ' t waste any time getting you what you need . ##### EAIO
+ASPECT: dish. CATEGORY: food quality. OPINION: frustrated. SENTIMENT: negative #####  . i was so frustrated with this dish . ##### EAEO
+ASPECT: staff, staff. CATEGORY: service general, service general. OPINION: nice, courteous. SENTIMENT: positive, positive #####  . the staff here are really nice and courteous , they make you feel like your at home . ##### EAEO
+ASPECT: fish, fish. CATEGORY: food quality, food styleoptions. OPINION: excellent, excellent. SENTIMENT: positive, positive #####  . the fish was excellent , the fish and chips was excellent , the shrimp scampi was excellent . ##### EAEO
+ASPECT: scooner or later. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . you are never sure if you are going to get a scooner or later . ##### EAIO
+ASPECT: seafood. CATEGORY: food quality. OPINION: plus. SENTIMENT: positive #####  . i have seafood plus every sunday with my family . ##### EAEO
+ASPECT: that eel with. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . i have to have that eel with the foie gras mousse , the potato gnocchi and the duck en canut . ##### EAIO
+ASPECT: pizza, mushroom pizza. CATEGORY: food quality, food quality. OPINION: love, love. SENTIMENT: positive, positive #####  . we love pizza especially the mushroom pizza . ##### EAEO
+ASPECT: service, value. CATEGORY: service general, restaurant prices. OPINION: lacking, lacking. SENTIMENT: negative, negative #####  . . . we found the service lacking and value lacking too , for what we paid . ##### EAEO
+ASPECT: ambiance. CATEGORY: ambience general. OPINION: null. SENTIMENT: positive #####  . if you ' re there for the ambiance , you won ' t be disappointed . ##### EAIO
+ASPECT: sushi, service. CATEGORY: food quality, service general. OPINION: great, better. SENTIMENT: positive, positive #####  . sushi was great , service was better . ##### EAEO
+ASPECT: customer service. CATEGORY: service general. OPINION: poor. SENTIMENT: negative #####  . my husband and i had a really poor experience at this restaurant with regard to customer service . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  so hurriedly that i did not have time to ask for one . ##### IAIO
+ASPECT: chinese food. CATEGORY: food quality. OPINION: best. SENTIMENT: positive #####  . the best chinese food in the city . ##### EAEO
+ASPECT: service, service. CATEGORY: service general, service general. OPINION: mediocre, offensive. SENTIMENT: negative, negative #####  . they had mediocre service on top of the offensive things they said . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  : i plan on going back very soon . ##### IAIO
+ASPECT: pieces. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: negative #####  . we thought these were pieces of fish in a seafood stew - they were very large and very fishy tasting . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . i will never return . ##### IAIO
+ASPECT: food. CATEGORY: food styleoptions. OPINION: plenty of. SENTIMENT: positive #####  . there is plenty of food . ##### EAEO
+ASPECT: music. CATEGORY: ambience general. OPINION: casual. SENTIMENT: positive #####  . . . they play a wide variety of music here - it ' s a fun and casual atmosphere . ##### EAEO
+ASPECT: mioposto cafe. CATEGORY: restaurant general. OPINION: love. SENTIMENT: positive #####  . i absolutely love mioposto cafe ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: splendid. SENTIMENT: positive #####  . i have to say that splendid was the perfect word to describe our experience . ##### IAEO
+ASPECT: cooks. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . the cooks here are the best i ' ve had in a long time . ##### EAIO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: average. SENTIMENT: neutral #####  . prices are average . ##### IAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: recommend. SENTIMENT: positive #####  . i would highly recommend this place . ##### EAEO
+ASPECT: food. CATEGORY: food quality. OPINION: nice. SENTIMENT: positive #####  . the food is so nice , we ' re definetly going back . ##### EAEO
+ASPECT: specials. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . i have had the fish tacos special and it was the best i have ever had . ##### EAIO
+ASPECT: pizza. CATEGORY: food quality. OPINION: lacks quality. SENTIMENT: negative #####  . pizza lacks quality ##### EAEO
+ASPECT: diverse wine. CATEGORY: drinks styleoptions. OPINION: most. SENTIMENT: positive #####  . most diverse wine list i ' ve ever seen . ##### EAEO
+ASPECT: bathroom stall. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: positive #####  . there is a bathroom stall that has a urinal attached to it - very helpful if you ' re the type of person who needs to pee standing up . ##### EAIO
+ASPECT: music, bar tenders, atmosphere. CATEGORY: ambience general, drinks styleoptions, ambience general. OPINION: great, generous, lighthearted. SENTIMENT: positive, positive, positive #####  ; i ' m on my honeymoon and we had a great time , the music was so great , the bar tenders are so generous with the drinks , and the atmosphere is so lighthearted . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  we found this restaurant a real treasure . ##### EAIO
+ASPECT: sushi. CATEGORY: food quality. OPINION: best. SENTIMENT: positive #####  . i had the best sushi of my life here ! ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . . . i felt like i was holding up the line . ##### IAIO
+ASPECT: service, coffee, food. CATEGORY: service general, drinks quality, food quality. OPINION: excellent, good, outstanding. SENTIMENT: positive, positive, positive #####  . . . service was excellent , coffee was good , food was outstanding . ##### EAEO
+ASPECT: servers behind the counter, servers behind the counter. CATEGORY: service general, service general. OPINION: friendly, helpful. SENTIMENT: positive, positive #####  . . . the servers behind the counter were friendly and helpful . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . a little greasy but delicious ##### IAEO
+ASPECT: location along the marina in long beach, food, customer service. CATEGORY: location general, food quality, service general. OPINION: charming, average, poor. SENTIMENT: positive, neutral, negative #####  . this place is charming , the location along the marina in long beach is picturesque and the ambience inside adds to the charm . . . the food is average at best and customer service can be poor at times . ##### EAEO
+ASPECT: food, food, food, food. CATEGORY: food quality, food quality, food quality, food prices. OPINION: fantastic, authentic, delicious, affordable. SENTIMENT: positive, positive, positive, positive #####  . . . the food is fantastic , authentic , delicious and affordable . ##### EAEO
+ASPECT: oyster roll. CATEGORY: food quality. OPINION: try. SENTIMENT: positive #####  . you gotta try the oyster roll . ##### EAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: perfect. SENTIMENT: positive #####  . this place is perfect for every occasion ! ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: overrated. SENTIMENT: negative #####  . pratt is overrated ##### IAEO
+ASPECT: null. CATEGORY: food styleoptions. OPINION: good. SENTIMENT: positive #####  . they have so many good options . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: exeptional. SENTIMENT: positive #####  . the food is exeptional . ##### EAEO
+ASPECT: waitress. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . the waitress seemed to know very little about the menu and wine list . ##### EAIO
+ASPECT: dessert. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  i ' m saving up for my next visit and will definitely be stopping by for dessert . ##### EAIO
+ASPECT: service. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . i would not go again because the service was so disrespectful . ##### EAIO
+ASPECT: seating, service. CATEGORY: restaurant miscellaneous, service general. OPINION: crowded, slow. SENTIMENT: negative, negative #####  , negative ##### EAEO
+ASPECT: desserts. CATEGORY: food quality. OPINION: scrumptious. SENTIMENT: positive #####  . you ca n ' t go wrong with any of the desserts . . . they are all scrumptious . ##### EAEO
+ASPECT: caeser salad. CATEGORY: food quality. OPINION: love. SENTIMENT: positive #####  . i love the caeser salad . ##### EAEO
+ASPECT: servers, young woman. CATEGORY: service general, service general. OPINION: n ' t like, n ' t like. SENTIMENT: negative, negative #####  . if you ' re going to use the fancy servers and the young woman who serves you is n ' t like you , then what ' s the point ? ##### EAEO
+ASPECT: pizza ' s, menu. CATEGORY: food styleoptions, food styleoptions. OPINION: thin, creative. SENTIMENT: positive, positive #####  . our creative pizza ' s were a work of art and tasted fabulous ! ##### EAEO
+ASPECT: goat cheese gnocchi. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: positive #####  we ordered goat cheese gnocchi which had a sweet and tangy taste . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: disappointed. SENTIMENT: negative #####  . we were soo disappointed . ##### IAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: gem. SENTIMENT: positive #####  . we stumbled upon this place and it is a gem ! ##### EAEO
+ASPECT: breakfast. CATEGORY: food quality. OPINION: enjoy. SENTIMENT: positive #####  : i enjoyed my breakfast so much , i will be sure to come back again for another visit . ##### EAEO
+ASPECT: caesar salad. CATEGORY: food quality. OPINION: null. SENTIMENT: negative #####  . if the caesar salad is any indication of the rest of the food here , i would n ' t go back . ##### EAIO
+ASPECT: food, waiting staff. CATEGORY: food quality, service general. OPINION: fantastic, perfect. SENTIMENT: positive, positive #####  , positive . everyone was on time , the food was fantastic , the waiting staff was perfect . ##### EAEO
+ASPECT: ray ' s boathouse. CATEGORY: restaurant general. OPINION: pleased. SENTIMENT: positive #####  . i was so pleased to have found ray ' s boathouse . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . but i do n ' t think it is reasonable to ask for a dessert after you have been offered and accepted a hookah ! ##### IAIO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: negative #####  - be prepared to wait ##### IAIO
+ASPECT: atmosphere, decor, decor. CATEGORY: ambience general, ambience general, ambience general. OPINION: aspiring, festive, amazing. SENTIMENT: positive, positive, positive #####  . . . the atmosphere is amazing , the decor is festive and aspiring to be romantic . ##### EAEO
+ASPECT: plate. CATEGORY: food quality. OPINION: superb. SENTIMENT: positive #####  . the superb thai fusion plate was a highlight of the meal . ##### EAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: negative #####  . you ca n ' t make reservations online . ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: fabulous. SENTIMENT: positive #####  . fabulous ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: great. SENTIMENT: positive #####  . the food is great ##### EAEO
+ASPECT: upstairs. CATEGORY: ambience general. OPINION: great. SENTIMENT: positive #####  . i like it upstairs a lot more for that reason . ##### EAEO
+ASPECT: standby. CATEGORY: restaurant general. OPINION: best. SENTIMENT: positive #####  . i was put on standby for 15 minutes and it was well worth the wait . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: expensive. SENTIMENT: negative #####  . i found the service expensive as well . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: unforgettable. SENTIMENT: positive #####  . a unforgettable food experience . ##### EAEO
+ASPECT: restaurant, restaurant. CATEGORY: restaurant general, restaurant general. OPINION: enjoy, rave. SENTIMENT: positive, positive #####  . i have lived in ny for 6 yrs and this is the first restaurant i ' ve been to in manhattan that i can rave about and enjoy . ##### EAEO
+ASPECT: rolls, smoked yellowtail. CATEGORY: food quality, food quality. OPINION: tasty, incredible. SENTIMENT: positive, positive #####  . smoked yellowtail rolls were incredibly tasty . ##### EAEO
+ASPECT: blue ribbon. CATEGORY: restaurant general. OPINION: fantastic. SENTIMENT: positive #####  . we went to blue ribbon on saturday for our anniversary and it was fantastic . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: 10. SENTIMENT: positive #####  . i would go back again and give it a 10 ##### IAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . this is the first place i have ever eaten where the service was so rude that it made me physically ill . ##### IAIO
+ASPECT: lunch spot. CATEGORY: restaurant general. OPINION: great. SENTIMENT: positive #####  . if you ' re looking for a great lunch spot in the heart of manhattan , look no further . ##### EAEO
+ASPECT: dungeness crabs. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  we went there for the dungeness crabs and they did n ' t disappoint . ##### EAIO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . my husband was charged $ 50 for a glass of wine that cost $ 12 . ##### IAIO
+ASPECT: seasonal fish, seafood, waterfront setting. CATEGORY: food quality, food quality, ambience general. OPINION: great, great, classy. SENTIMENT: positive, positive, positive #####  . . . definitely worth the trip from manhattan for the seasonal fish and seafood , great waterfront setting , and classy atmosphere . ##### EAEO
+ASPECT: portions. CATEGORY: food styleoptions. OPINION: chintzy. SENTIMENT: negative #####  . these portions are chintzy ! ##### EAEO
+ASPECT: open sesame combo plate. CATEGORY: food prices. OPINION: bargain. SENTIMENT: positive #####  . my boyfriend and i shared the open sesame combo plate which was a great bargain . ##### EAEO
+ASPECT: pizza menu, pizza menu. CATEGORY: food quality, food styleoptions. OPINION: delicious, creative. SENTIMENT: positive, positive #####  . . the pizza menu is delicious and creatively presented . ##### EAEO
+ASPECT: pizza joint. CATEGORY: restaurant general. OPINION: favortie. SENTIMENT: positive #####  . pizza joint is my favortie ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . we waited for over an hour . ##### IAIO
+ASPECT: feel. CATEGORY: ambience general. OPINION: plus. SENTIMENT: positive #####  . you feel like you ' re somewhere else . ##### EAEO
+ASPECT: brunch. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . you should make it a point to try brunch , especially the brunch prixe fixe . ##### EAIO
+ASPECT: taco salads, burritos, enchiladas, place. CATEGORY: food quality, food quality, food quality, restaurant general. OPINION: good, good, good, love. SENTIMENT: positive, positive, positive, positive #####  . . . i love this place for taco salads , burritos , enchiladas . . . . good good good ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant general. OPINION: delightful. SENTIMENT: positive #####  . i went here with my husband on a sunday and we both had a delightful experience . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: to their credit. SENTIMENT: positive #####  . . . they took one off our tab to their credit . ##### IAEO
+ASPECT: null. CATEGORY: ambience general. OPINION: pleasant. SENTIMENT: positive #####  pleasant surprse in store for you , on all levels . ##### IAEO
+ASPECT: manager. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . my husband and i went for dinner on saturday night and requested a table outside . the manager flat out refused , stating that the restaurant was fully booked for the evening . ##### EAIO
+ASPECT: mexican place. CATEGORY: restaurant general. OPINION: best. SENTIMENT: positive #####  . this is the best mexican place i ' ve ever been to . ##### EAEO
+ASPECT: null. CATEGORY: drinks styleoptions. OPINION: hit. SENTIMENT: positive #####  . i hit the spot with this beverage after a long day of work . ##### IAEO
+ASPECT: null. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  this is where it all begins . . . ##### IAIO
+ASPECT: atmosphere, food, food. CATEGORY: ambience general, food quality, food prices. OPINION: liked, not worth, not worth. SENTIMENT: positive, negative, negative #####  . i liked the atmosphere but not the food - - it was not worth the money . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . the waitress seemed to know nothing about the menu and made no recommendations . ##### IAIO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: fabulous. SENTIMENT: positive #####  . fabulous value . ##### IAEO
+ASPECT: waitress. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . the waitress brought the bill before we even had a chance to finish our dinner ! ! ! ! ! ! ! ! ! ! ! ##### EAIO
+ASPECT: null. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: neutral #####  ( but positive ) . it is served with a side of shiso and daikon radish , and i ' m sure you can ask for it without the fish skin if you do n ' t like that kind of thing . ##### IAIO
+ASPECT: food. CATEGORY: food quality. OPINION: okay. SENTIMENT: negative #####  . my husband ' s was okay , but the food in general did n ' t look appetizing . ##### EAEO
+ASPECT: sake. CATEGORY: drinks quality. OPINION: perfect. SENTIMENT: positive #####  . i had the sake which was perfect . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  : i ' ve been there three times already ! ! ! ##### IAIO
+ASPECT: sake, food. CATEGORY: drinks quality, food quality. OPINION: good, good. SENTIMENT: positive, positive #####  . good sake and good food . ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food styleoptions. OPINION: great, bonus. SENTIMENT: positive, positive #####  . i thought the food was great and the bonus of being able to make your own noodle bowl was a nice touch . ##### EAEO
+ASPECT: crowd. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: neutral #####  . a good spot for people watching if you ' re into that , or if you ' re looking for a fun and lively atmosphere to go out with friends or coworkers ( the crowd is mostly young , attractive , and single ) . ##### EAIO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . we were never offered drinks . ##### IAIO
+ASPECT: omikase. CATEGORY: food quality. OPINION: n ' t disappoint. SENTIMENT: positive #####  . ( we did the omikase and it did n ' t disappoint . ) ##### EAEO
+ASPECT: chana masala  garbanzo beans . CATEGORY: food quality. OPINION: also. SENTIMENT: positive #####  . there is chana masala and garbanzo beans in it . ##### EAEO
+ASPECT: servers, servers. CATEGORY: service general, service general. OPINION: attentive, friendly. SENTIMENT: positive, positive #####  . . . the servers are attentive and friendly . ##### EAEO
+ASPECT: food, atmosphere. CATEGORY: food quality, ambience general. OPINION: great, awesome. SENTIMENT: positive, positive #####  . . . the food is great and the atmosphere is awesome . ##### EAEO
+ASPECT: meal. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . i have to say that i ca n ' t believe how good this meal was for $ 9 . ##### EAIO
+ASPECT: music, subwoofer to the sound system. CATEGORY: ambience general, ambience general. OPINION: very, annoying. SENTIMENT: positive, negative #####  ; very annoying music from the subwoofer to the sound system . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  : i have been there twice and will most likely go again . ##### IAIO
+ASPECT: portions, sushi dishes. CATEGORY: food styleoptions, food styleoptions. OPINION: large, creative. SENTIMENT: positive, positive #####  . i have to say that the portions are large and the sushi dishes are very creative . ##### EAEO
+ASPECT: pizza place. CATEGORY: restaurant general. OPINION: great. SENTIMENT: positive #####  . i go here on my lunch break and always get a great pizza place ! ##### EAEO
+ASPECT: server, food. CATEGORY: service general, food quality. OPINION: wonderful, wonderful. SENTIMENT: positive, positive #####  . the server was wonderful as was the food . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  the place is a must ! ##### IAIO
+ASPECT: service, food. CATEGORY: service general, food prices. OPINION: bad, overpriced. SENTIMENT: negative, negative #####  , negative ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: neutral #####  . there ' s always someone to greet you at the door . ##### IAIO
+ASPECT: brunch food. CATEGORY: food quality. OPINION: average. SENTIMENT: neutral #####  . but , average brunch food . ##### EAEO
+ASPECT: wine list. CATEGORY: drinks styleoptions. OPINION: wonderful. SENTIMENT: positive #####  . my wife had the wonderful riesling from the wine list . ##### EAEO
+ASPECT: sashimi, sashimi. CATEGORY: food quality, food quality. OPINION: freshest, tender. SENTIMENT: positive, positive #####  . fresh sashimi , the freshest i ' ve ever had , tender and melt in your mouth . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant general. OPINION: horrible. SENTIMENT: negative #####  . i ca n ' t believe how horrible this restaurant is . ##### EAEO
+ASPECT: atmosphere, service. CATEGORY: ambience general, service general. OPINION: cozy, horrible. SENTIMENT: positive, negative #####  . . . the atmosphere is pretty cozy and the service is horrible . ##### EAEO
+ASPECT: balcony. CATEGORY: ambience general. OPINION: nice. SENTIMENT: positive #####  . i was n ' t here for the food , but i ' m glad i stopped by . . . the balcony is nice , the wait staff dresses up for Halloween , so it ' s fun to go there in costume . ##### EAEO
+ASPECT: coffe. CATEGORY: drinks quality. OPINION: good. SENTIMENT: positive #####  coffe is good . ##### EAEO
+ASPECT: null, null. CATEGORY: food quality, food quality. OPINION: decent, nothing exceptional. SENTIMENT: positive, neutral #####  . it was ok , nothing exceptional , but decent for the price . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  : ( it has nothing to do with the food ) ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: better. SENTIMENT: positive #####  . i have a feeling that it will continue to get better . ##### IAEO
+ASPECT: pizza, service. CATEGORY: food quality, service general. OPINION: great, poor. SENTIMENT: positive, negative #####  . great pizza but poor service . ##### EAEO
+ASPECT: null, null. CATEGORY: restaurant general, restaurant prices. OPINION: recommend, expensive. SENTIMENT: positive, negative #####  . i would recommend it but it is very expensive . ##### IAEO
+ASPECT: sushi, salmon, tuna, fluke, yellow tail, cod, mackeral, jellyfish, sea urchin, shrimp, lobster, sea bream, trout, milk fish, blue fin tuna, eel, crab, sardine, monk fish, roe, scallop, oysters, toro. CATEGORY: food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food quality, food styleoptions. OPINION: null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null. SENTIMENT: positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive, positive ##### , positive, positive , positive ##### EAIO
+ASPECT: drinks. CATEGORY: drinks quality. OPINION: good. SENTIMENT: positive #####  . the drinks are very good here . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: negative #####  . the service was great at the restaurant but i was charged $ 10 for a glass of water that i did n ' t order . ##### EAIO
+ASPECT: null. CATEGORY: food quality. OPINION: yum. SENTIMENT: positive #####  . the flavor was yum . ##### IAEO
+ASPECT: null. CATEGORY: service general. OPINION: rudely. SENTIMENT: negative #####  . they rudely interrupted me and my dining partner . ##### IAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: amazing. SENTIMENT: positive #####  . i ' ve been going there for amazing since 1990 . ##### IAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . we will never go back . ##### IAIO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  : i was n ' t offered anything to drink . ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: great. SENTIMENT: positive #####  . this was a great surprise . ##### IAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: neutral #####  : the house is very dark and there is always jazz music playing . ##### IAIO
+ASPECT: establishment. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . i do n ' t think this establishment will be around for much longer . ##### EAIO
+ASPECT: sake selection. CATEGORY: drinks styleoptions. OPINION: good. SENTIMENT: positive #####  . . . my friend had the sake selection which was good . ##### EAEO
+ASPECT: steak, steak. CATEGORY: food quality, food quality. OPINION: nice, juicy. SENTIMENT: positive, positive #####  , positive ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: annoying. SENTIMENT: negative #####  . the only thing annoying is when the bartender ' s rude and dismissive when you ask for your check . ##### IAEO
+ASPECT: service, place. CATEGORY: service general, restaurant general. OPINION: fantastic, fun. SENTIMENT: positive, positive #####  . . . the service here is fantastic and the place just plain fun . ##### EAEO
+ASPECT: staff. CATEGORY: service general. OPINION: friendly. SENTIMENT: positive #####  . . . i have never had such friendly staff . ##### EAEO
+ASPECT: green tea creme brulee. CATEGORY: food quality. OPINION: must. SENTIMENT: positive #####  . i must say that i have never had green tea creme brulee as delicious as this one . ##### EAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: right. SENTIMENT: positive #####  . i was n ' t here for the decor so i ca n ' t comment on that but the location , right on the water , is great . ##### IAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: sad. SENTIMENT: negative #####  . my boyfriend and i were very sad to find that this place does n ' t exist anymore . ##### EAEO
+ASPECT: wine. CATEGORY: drinks quality. OPINION: null. SENTIMENT: negative #####  : the wine we ordered tasted like it had been left out all night . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: amazing. SENTIMENT: positive #####  . we found it amazing . ##### IAEO
+ASPECT: decor, decor, feeling. CATEGORY: ambience general, ambience general, ambience general. OPINION: enjoy, simplicity, intimate. SENTIMENT: positive, positive, positive #####  . . . the decor is quite simple and intimate which adds to the overall enjoyment . . . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: null. SENTIMENT: negative #####  . i have had better for less elsewhere . ##### IAIO
+ASPECT: open sesame. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  . i ca n ' t wait for open sesame to open , i hope it ' s as good as it ' s hyped to be . ##### EAIO
+ASPECT: open sesame. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  : we ' ve been open sesame for years ! ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: bad. SENTIMENT: negative #####  . i felt like i was ripped off . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: never disappointed. SENTIMENT: positive #####  . i have never been here and been disappointed with the food . ##### EAEO
+ASPECT: service, service. CATEGORY: service general, service general. OPINION: attentive, charming. SENTIMENT: positive, positive #####  . attentive and charming service . ##### EAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . this place does n ' t even try to hide the fact that they do n ' t give a damn about their customers . ##### EAIO
+ASPECT: food, food. CATEGORY: food quality, food prices. OPINION: mediocre, mediocre. SENTIMENT: negative, negative #####  . this place has a long way to go , food is very mediocre and the prices are really high . ##### EAEO
+ASPECT: caesar salad. CATEGORY: food quality. OPINION: superb. SENTIMENT: positive #####  . my caesar salad was superb . ##### EAEO
+ASPECT: honwy walnut prawns, honwy walnut prawns. CATEGORY: food quality, food quality. OPINION: outstanding, best. SENTIMENT: positive, positive #####  . the honwy walnut prawns were the outstanding dish , and the best i ' ve had anywhere . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: not chewy. SENTIMENT: positive #####  . if it is not chewy then it is not authentic . ##### IAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  and friendly : be sure not to judge this book by its cover or by the attitude of the front of the house staff . ##### IAIO
+ASPECT: drinks. CATEGORY: drinks quality. OPINION: null. SENTIMENT: positive #####  . drinks are excellent - both the wine and non - wine drinks . ##### EAIO
+ASPECT: null. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . this was delicious . ##### IAEO
+ASPECT: menu. CATEGORY: food styleoptions. OPINION: creative. SENTIMENT: positive #####  . creative menu ##### EAEO
+ASPECT: indain food. CATEGORY: food quality. OPINION: recommend. SENTIMENT: positive #####  . i highly recommend indain food for indian food lovers . ##### EAEO
+ASPECT: fish. CATEGORY: food quality. OPINION: decent. SENTIMENT: negative #####  . . . if you ' re in the mood for fish , there are other places that serve decent fish . ##### EAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: bad. SENTIMENT: negative #####  . i ca n ' t believe how bad this place really is . ##### EAEO
+ASPECT: brocolli. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . mine had lots of brocolli . ##### EAIO
+ASPECT: wait staff, cooks. CATEGORY: service general, service general. OPINION: friendly, friendly. SENTIMENT: positive, positive #####  . the wait staff and cooks are all so friendly . ##### EAEO
+ASPECT: sushi place. CATEGORY: restaurant general. OPINION: best. SENTIMENT: positive #####  . we found it to be the best sushi place in manhattan . ##### EAEO
+ASPECT: specialty rolls. CATEGORY: food quality. OPINION: impressive. SENTIMENT: positive #####  . ours were very impressive . ##### EAEO
+ASPECT: pizza. CATEGORY: food quality. OPINION: better. SENTIMENT: negative #####  . you can get better pizza elsewhere . ##### EAEO
+ASPECT: menu. CATEGORY: food quality. OPINION: delectable. SENTIMENT: positive #####  . the menu has delectable choices , fresh fish , the pasta dishes are excellent . ##### EAEO
+ASPECT: kafta plate. CATEGORY: food quality. OPINION: perfect. SENTIMENT: positive #####  . . . the kafta plate was perfect . ##### EAEO
+ASPECT: prawns, prawns, scallops, scallops. CATEGORY: food quality, food quality, food quality, food quality. OPINION: fresh, nicely cooked, fresh, nicely cooked. SENTIMENT: positive, positive, positive, positive #####  . we had prawns and scallops which were fresh and nicely cooked . ##### EAEO
+ASPECT: food, service. CATEGORY: food quality, service general. OPINION: good, great. SENTIMENT: positive, positive #####  . . . they do n ' t have to try to sell you stuff or make the food look fancy to make you feel like you ' re getting a great experience . . . it ' s good food served in a great environment . ##### EAEO
+ASPECT: food, bloody mary. CATEGORY: food quality, drinks quality. OPINION: great, mean. SENTIMENT: positive, positive #####  . i have had great food here and bloody mary ' s that are absolutely mean . ##### EAEO
+ASPECT: space. CATEGORY: restaurant miscellaneous. OPINION: limited. SENTIMENT: negative #####  . our reservation was for four but the space is limited so only two of us could sit together . ##### EAEO
+ASPECT: place. CATEGORY: restaurant miscellaneous. OPINION: best. SENTIMENT: positive #####  . my wife and i plan to make this place a regular stop on our travels , and in fact , one of the best finds in the city . ##### EAEO
+ASPECT: ray ' s. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: neutral #####  . it is a bit pricey for ray ' s ca n ' t , but i would still go again . ##### EAIO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . i felt as though they were just trying to get rid of me . ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  : i would go back again ##### IAIO
+ASPECT: service. CATEGORY: service general. OPINION: quick. SENTIMENT: positive #####  . they were quick to serve us and the food was presented nicely . ##### EAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  if you ' re in the place for some time you ' ll start to feel like family . ##### EAIO
+ASPECT: wood decor. CATEGORY: ambience general. OPINION: incredible. SENTIMENT: positive #####  . incredible wood decor ##### EAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: good. SENTIMENT: positive #####  . this is good for late night snacks and good company . ##### IAEO
+ASPECT: place. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: positive #####  , be sure to check it out if you ever visit manhattan . ##### EAIO
+ASPECT: chef ' s choice for sushi. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . the chef ' s choice for sushi is always a surprise and delight . ##### EAIO
+ASPECT: sushi. CATEGORY: food quality. OPINION: unbeatable. SENTIMENT: positive #####  . you have not had sushi until you have had sushi here - it is unbeatable . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  ! we were never offered drinks or any explanation as to why the food was late , just an apology from the manager who quickly passed by our table . ##### IAIO
+ASPECT: sake, server. CATEGORY: drinks quality, service general. OPINION: good, good. SENTIMENT: positive, positive #####  . the sake was very good and the server did not mind pouring me another glass when i finished my first . ##### EAEO
+ASPECT: art on the walls. CATEGORY: ambience general. OPINION: colorful. SENTIMENT: positive #####  . a colorful art on the walls only adds to the experience . ##### EAEO
+ASPECT: eggs, meal. CATEGORY: food quality, food quality. OPINION: null, null. SENTIMENT: negative, negative #####  , i did n ' t even finish my eggs and meal was a mess . ##### EAIO
+ASPECT: service. CATEGORY: service general. OPINION: efficient. SENTIMENT: positive #####  . everyone was served quickly and efficiently . ##### EAEO
+ASPECT: food. CATEGORY: food quality. OPINION: enjoyed. SENTIMENT: positive #####  . enjoyed the food ##### EAEO
+ASPECT: employees. CATEGORY: service general. OPINION: ignoring. SENTIMENT: negative #####  . the employees are rude and ignorant and ignore you when you ask for things like your bill . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  i would not go back . ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: disappointing. SENTIMENT: negative #####  . we were very disappointed . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: mild. SENTIMENT: positive #####  . i ca n ' t wait to go back and try the rest of the menu . . . the food is mild , so it will not make your sinuses explode as some thai food can do . ##### EAEO
+ASPECT: pizza, service. CATEGORY: food quality, service general. OPINION: great, poor. SENTIMENT: positive, negative #####  . . . pizza was great but the service was poor . ##### EAEO
+ASPECT: staff. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . we ' ve all experienced rude and out of sorts behavior from the staff on multiple occasions . ##### EAIO
+ASPECT: ambiance, ambiance. CATEGORY: ambience general, ambience general. OPINION: nice, good. SENTIMENT: positive, positive #####  . i like the ambiance , very nice and good for a first date or for a small celebration . ##### EAEO
+ASPECT: food, service. CATEGORY: food quality, service general. OPINION: ok, poor. SENTIMENT: neutral, negative #####  . food was ok , but service was poor . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: not worth. SENTIMENT: negative #####  . i do n ' t know what other people are talking about but this place was not worth the hype . ##### IAEO
+ASPECT: cakes. CATEGORY: food quality. OPINION: better. SENTIMENT: positive #####  . they have better cakes than red velvet cafe . ##### EAEO
+ASPECT: white gulf prawns, manila clams, soy dressing, butter sauce. CATEGORY: food styleoptions, food quality, food quality, food quality. OPINION: enormous, fantastic, tasty, sublime. SENTIMENT: positive, positive, positive, positive #####  . try the white gulf prawns , manila clams , soy dressing , butter sauce - enormous , fantastic , tasty , sublime . ##### EAEO
+ASPECT: grilled alaskan king salmon, creamed washington russet potatoes, green beans. CATEGORY: food quality, food quality, food quality. OPINION: enjoyed, delectable, crisp. SENTIMENT: positive, positive, positive #####  . i enjoyed the grilled alaskan king salmon with creamed washington russet potatoes and green beans - delectable and crisp . ##### EAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: positive. SENTIMENT: negative #####  : keep it to yourselves . ##### IAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  . for example : i ' m planning on going back very soon . ##### IAIO
+ASPECT: pizza. CATEGORY: food quality. OPINION: good. SENTIMENT: positive #####  . pizza is very good ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . i have had delicious . ##### IAEO
+ASPECT: pepperoni, pepperoni. CATEGORY: food styleoptions, food styleoptions. OPINION: big, thick. SENTIMENT: positive, positive #####  . this pepperoni is big and thick . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  . this restaurant ##### EAIO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: overpriced. SENTIMENT: negative #####  . . . a little overpriced for what you get . ##### IAEO
+ASPECT: wine list. CATEGORY: drinks styleoptions. OPINION: extensive. SENTIMENT: positive #####  . i was impressed with the extensive wine list . ##### EAEO
+ASPECT: customer service, pizza. CATEGORY: service general, food quality. OPINION: poor, poor. SENTIMENT: negative, negative #####  . this place has poor customer service , and the pizza is a poor excuse for pizza . ##### EAEO
+ASPECT: spot. CATEGORY: ambience general. OPINION: cozy. SENTIMENT: positive #####  . this is a cozy little spot . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . would have preferred if he had just asked . ##### IAIO
+ASPECT: shoe string onions, goat cheese pizza, grilled asparagus, fried brie with fruit. CATEGORY: food quality, food quality, food quality, food quality. OPINION: good, good, good, good. SENTIMENT: positive, positive, positive, positive #####  . the goat cheese pizza was very good with shoe string onions , goat cheese and grilled asparagus . . . the fried brie with fruit was also very good . ##### EAEO
+ASPECT: desert, dinner. CATEGORY: food quality, food quality. OPINION: perfect, perfect. SENTIMENT: positive, positive #####  . they have the perfect desert for dinner . ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food quality. OPINION: good, appetizing. SENTIMENT: positive, positive #####  . this was my first visit and i ' m definitely coming back for more , the food is so good and appetizing . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  . definitely a repeat visit ! ##### IAIO
+ASPECT: dessert of a port and chocolate tasting, dessert of a port and chocolate tasting. CATEGORY: food quality, food quality. OPINION: unusual, yummy. SENTIMENT: positive, positive #####  . you ca n ' t go wrong with anything you try here , especially the dessert of a port and chocolate tasting which is unusual but yummy . ##### EAEO
+ASPECT: lunch menu. CATEGORY: food prices. OPINION: awesome. SENTIMENT: positive #####  . awesome prices for lunch menu . ##### EAEO
+ASPECT: restroom. CATEGORY: restaurant miscellaneous. OPINION: odd. SENTIMENT: negative #####  . i ' ve been there three times , and everytime i ' ve had to wait in line for the restroom - which is odd because there are at least four other restrooms in the restaurant that are always empty . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: charming. SENTIMENT: positive #####  . charming ##### IAEO
+ASPECT: atmosphere. CATEGORY: ambience general. OPINION: great. SENTIMENT: positive #####  . overall , the atmosphere was great . ##### EAEO
+ASPECT: dungeness crabs. CATEGORY: food styleoptions. OPINION: love. SENTIMENT: positive #####  . i love dungeness crabs . ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food quality. OPINION: good, overpriced. SENTIMENT: positive, negative #####  . . . my husband and i thought the food was good , but overpriced . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  will definitely not return . ##### IAIO
+ASPECT: service, service. CATEGORY: service general, service general. OPINION: spendid, delight. SENTIMENT: positive, positive #####  . i have to say i ' m going to rave about this place and spendid service . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  and you should try it too ! ##### IAIO
+ASPECT: 9 oz steak. CATEGORY: food quality. OPINION: great. SENTIMENT: positive #####  . my husband had the 9 oz steak which was great . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: yummy. SENTIMENT: positive #####  . the food was yummy . ##### IAEO
+ASPECT: artwork, music. CATEGORY: ambience general, ambience general. OPINION: null, null. SENTIMENT: positive, positive #####  this place is all about atmosphere - - - artwork adorning the walls , music playing soft in the background . ##### EAIO
+ASPECT: null. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . i found it delicious ! ##### IAEO
+ASPECT: sushi, sushi. CATEGORY: food styleoptions, food prices. OPINION: null, null. SENTIMENT: negative, negative #####  . try sushi and you ' ll understand . ##### EAIO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: never too crowded. SENTIMENT: positive #####  . i never hear about it being too crowded . ##### IAEO
+ASPECT: pizza ' s, pizza ' s. CATEGORY: food quality, food quality. OPINION: light, scrumptious. SENTIMENT: positive, positive #####  . the pizza ' s are light and scrumptious . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: worth. SENTIMENT: positive #####  . i think it was well worth the trip . ##### IAEO
+ASPECT: open sesame combo plate. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: positive #####  . there is so much good food on the open sesame combo plate ! ##### EAIO
+ASPECT: beer, meal. CATEGORY: drinks quality, food quality. OPINION: warm, mediocre. SENTIMENT: negative, negative #####  . . . i had a warm beer and a mediocre meal at this location . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: kudos. SENTIMENT: positive #####  . kudos to the entire staff . ##### IAEO
+ASPECT: food. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  . the food was very good . ##### EAIO
+ASPECT: seabass on lobster risotto. CATEGORY: food quality. OPINION: best. SENTIMENT: positive #####  . best seabass on lobster risotto i have ever had . ##### EAEO
+ASPECT: null. CATEGORY: ambience general. OPINION: null. SENTIMENT: positive #####  : i ' m definitely going back . ##### IAIO
+ASPECT: service, waiters. CATEGORY: service general, service general. OPINION: exceptional, friendly. SENTIMENT: positive, positive #####  . the service was exceptional , and the waiters were friendly . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant prices. OPINION: astonished. SENTIMENT: negative #####  . . . the service was the only thing that was anything but perfect - - and even that i felt was somewhat overpriced , given the restaurant . ##### EAEO
+ASPECT: location. CATEGORY: location general. OPINION: nice. SENTIMENT: positive #####  . . . located on the upper west side near the river , the view from the restaurant is really nice . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: great. SENTIMENT: positive #####  . the food is always great . ##### IAEO
+ASPECT: waiters, waiters. CATEGORY: service general, service general. OPINION: experienced, helpful. SENTIMENT: positive, positive #####  . . . the waiters experienced and helpful . ##### EAEO
+ASPECT: fish, fish. CATEGORY: food quality, food quality. OPINION: fresh, thin. SENTIMENT: positive, negative #####  . . . they served the fish , a thick slice of the raw fish . ##### EAEO
+ASPECT: italian food. CATEGORY: food quality. OPINION: fabulous. SENTIMENT: positive #####  . we ' ve been coming here for fabulous italian food since it opened . ##### EAEO
+ASPECT: balcony. CATEGORY: ambience general. OPINION: null. SENTIMENT: neutral #####  ( i would say this is the most romantic place in nyc if the balcony was enclosed and heated in the winter ) ##### EAIO
+ASPECT: null. CATEGORY: service general. OPINION: annoyance. SENTIMENT: negative #####  . if you do n ' t eat quickly you will be charged an extra dollar an hour , which i found quite an annoyance . ##### IAEO
+ASPECT: space, space, service. CATEGORY: ambience general, ambience general, service general. OPINION: small, lovely, helpful. SENTIMENT: positive, positive, positive #####  . i have a small space at home that i decorate like this restaurant , so it was lovely to go there and see everything i had imagined for myself , and even get helpful service on top of it . ##### EAEO
+ASPECT: dinners. CATEGORY: food quality. OPINION: excellent. SENTIMENT: positive #####  . i have had excellent dinners there everytime . ##### EAEO
+ASPECT: nigiri, sashmi. CATEGORY: food quality, food quality. OPINION: null, null. SENTIMENT: positive, positive #####  . i have had better nigiri , sashmi , etc . elsewhere but it is all so good here , you do n ' t have to eat anywhere else in ny . ##### EAIO
+ASPECT: food, ambience. CATEGORY: food quality, ambience general. OPINION: excellent, nice. SENTIMENT: positive, positive #####  , positive ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food quality. OPINION: real, best. SENTIMENT: positive, positive #####  . this is the real deal and the best thai food in the city . ##### EAEO
+ASPECT: omikase. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: negative #####  . my wife wanted the omikase but did not want the eel , and the chef ' s choice contained eel . ##### EAIO
+ASPECT: breakfast. CATEGORY: food quality. OPINION: love. SENTIMENT: positive #####  . i love the breakfast . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  by the absence of ! ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: over rated. SENTIMENT: negative #####  . over rated ##### IAEO
+ASPECT: indian food. CATEGORY: food quality. OPINION: best. SENTIMENT: positive #####  . it is the best indian food in the city . ##### EAEO
+ASPECT: null. CATEGORY: food styleoptions. OPINION: null. SENTIMENT: positive #####  . i ' ve had the veggie burger and it was very good , but the portobello mushroom sandwich looked so good i knew i had to try it . ##### IAIO
+ASPECT: atmosphere. CATEGORY: ambience general. OPINION: nice. SENTIMENT: positive #####  . i think the atmosphere adds to the nice experience . ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food quality. OPINION: good, too mild. SENTIMENT: positive, negative #####  . the food is too mild for my liking . ##### EAEO
+ASPECT: hummus. CATEGORY: food quality. OPINION: holy. SENTIMENT: positive #####  . my hummus was holy moly good . ##### EAEO
+ASPECT: ambience, place. CATEGORY: ambience general, restaurant general. OPINION: nice, overrated. SENTIMENT: positive, negative #####  . this place is really nice ambience wise , but very overrated . ##### EAEO
+ASPECT: service. CATEGORY: service general. OPINION: worst. SENTIMENT: negative #####  . i have to say that the service was the worst i have ever encountered at any restaurant . ##### EAEO
+ASPECT: sushi, wait staff. CATEGORY: food quality, service general. OPINION: excellent, quick. SENTIMENT: positive, positive #####  , positive . i ' ve had excellent sushi at other places but the wait staff here makes you feel like the place is your local hang out and the service is quick and reliable . ##### EAEO
+ASPECT: restaurant. CATEGORY: restaurant general. OPINION: good. SENTIMENT: positive #####  . i ca n ' t believe how good this restaurant is ! ##### EAEO
+ASPECT: sushi. CATEGORY: food quality. OPINION: fresh. SENTIMENT: positive #####  . you can taste the freshness of the sushi . ##### EAEO
+ASPECT: owner. CATEGORY: service general. OPINION: belligerent. SENTIMENT: negative #####  . i ca n ' t believe how belligerent the owner was when i called to cancel my reservation . ##### EAEO
+ASPECT: lamb korma, saag paneer, samosas, naan. CATEGORY: food quality, food quality, food quality, food quality. OPINION: yummy, yummy, yummy, yummy. SENTIMENT: positive, positive, positive, positive #####  . my wife had the lamb korma and i had the saag paneer , both were yummy . the samosas were also very good and the naan was fresh and cooked on the premises . ##### EAEO
+ASPECT: waiter. CATEGORY: service general. OPINION: good. SENTIMENT: positive #####  . i was n ' t charged for any of the drinks or the late night snack that the waiter hooked me up with . ##### EAEO
+ASPECT: place. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: positive #####  : this place really does it for me ! ##### EAIO
+ASPECT: ray ' s. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  . i have been eating at ray ' s for over 15 years . ##### EAIO
+ASPECT: server. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  : this is not a place for a special occasion . . . they do n ' t even have dress code . . . the service is iffy at best . . . the place is a zoo and the server does n ' t seem to give two tusks about it . ##### EAIO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: ackward. SENTIMENT: negative #####  . what a awkward experience ! ##### IAEO
+ASPECT: pumpkin ravioli, goat cheese gnocchi, filet mignon on top of spinach and mashed potatoes. CATEGORY: food quality, food quality, food quality. OPINION: loved, loved, loved. SENTIMENT: positive, positive, positive #####  . loved the pumpkin ravioli , loved the goat cheese gnocchi , loved the filet mignon on top of spinach and mashed potatoes . ##### EAEO
+ASPECT: food, restaurant staff. CATEGORY: food quality, service general. OPINION: good, indifferent. SENTIMENT: positive, negative #####  . the food is good but the restaurant staff is rather indifferent . ##### EAEO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: positive #####  . never fails to make me feel like i ' m somebody special . ##### IAIO
+ASPECT: rolls. CATEGORY: food quality. OPINION: tasty. SENTIMENT: positive #####  . i ' m not much of a sushi person but these rolls were very tasty . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . . . i was n ' t charged for the bottle of wine , but i was charged for the coffee . ##### IAIO
+ASPECT: menu. CATEGORY: food styleoptions. OPINION: abbreviated. SENTIMENT: neutral #####  . you can abbreviate your order . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: disappointed. SENTIMENT: negative #####  . i was very disappointed . ##### IAEO
+ASPECT: bathroom. CATEGORY: restaurant miscellaneous. OPINION: small. SENTIMENT: negative #####  . i ' ve never seen such a small bathroom in such an expensive restaurant . ##### EAEO
+ASPECT: food. CATEGORY: food quality. OPINION: null. SENTIMENT: negative #####  . the food was really greasy . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: good. SENTIMENT: positive #####  . i have a good experience there every time i go . ##### IAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  : they did n ' t even bother to take our order . ##### IAIO
+ASPECT: red wine reduction, peppercorn sauce. CATEGORY: food quality, food quality. OPINION: indistinguishable, indistinguishable. SENTIMENT: neutral, neutral #####  the red wine reduction and peppercorn sauce were indistinguishable from what i have had at the source . ##### EAEO
+ASPECT: chips, salsa. CATEGORY: food quality, food quality. OPINION: yummy, yummy. SENTIMENT: positive, positive #####  . i go their every sunday and have the yummy chips and salsa . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  : it was brought out on the plate with a flourish and a small fanfare of drums ( i ca n ' t make that up ) . ##### IAIO
+ASPECT: service. CATEGORY: service general. OPINION: slow. SENTIMENT: negative #####  . the service was slow . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: worth. SENTIMENT: positive #####  . definitely worth the trip from manhattan ! ##### IAEO
+ASPECT: sommelier, sommelier, sommelier. CATEGORY: service general, service general, service general. OPINION: fantastic, down - to - earth, knowlegable. SENTIMENT: positive, positive, positive #####  ; fantastic sommelier - down to earth , knowlegable , and extremely helpful in making choices . ##### EAEO
+ASPECT: owner. CATEGORY: service general. OPINION: dismissive. SENTIMENT: negative #####  . i was with three other people and the owner was very dismissive of our concerns . ##### EAEO
+ASPECT: bar keep. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . i asked for the check and the bar keep just handed me the bill without writing anything down . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: excellent. SENTIMENT: positive #####  . i have a feeling that this is an excellent find . ##### IAEO
+ASPECT: null. CATEGORY: food quality. OPINION: null. SENTIMENT: positive #####  it was the best hot dog i have had in a long time . ##### IAIO
+ASPECT: bar. CATEGORY: restaurant general. OPINION: best. SENTIMENT: positive #####  . i go to the bar and it ' s the best value you ca n ' t get in manhattan . ##### EAEO
+ASPECT: seafood, seafood. CATEGORY: food styleoptions, food quality. OPINION: ok, ok. SENTIMENT: neutral, neutral #####  . if the seafood is ok , ok for you . ##### EAEO
+ASPECT: food, food. CATEGORY: food quality, food prices. OPINION: reasonably, reasonably. SENTIMENT: positive, positive #####  . we got a large of reasonably priced food for $ 11 . ##### EAEO
+ASPECT: spot, spot. CATEGORY: restaurant miscellaneous, ambience general. OPINION: perfect, perfect. SENTIMENT: positive, positive #####  . i ca n ' t believe how perfect this spot is . ##### EAEO
+ASPECT: drinks. CATEGORY: drinks quality. OPINION: suberb. SENTIMENT: positive #####  . the drinks are suberb . ##### EAEO
+ASPECT: waiter. CATEGORY: service general. OPINION: dismissive. SENTIMENT: negative #####  . i have to say that the waiter was very dismissive , and made me feel like i was wasting his time by asking for recommendations . ##### EAEO
+ASPECT: null. CATEGORY: ambience general. OPINION: romantic. SENTIMENT: positive #####  . very romantic . ##### IAEO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: null. SENTIMENT: positive #####  , and the price is right . ##### IAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: addicting. SENTIMENT: positive #####  . it is a little off the beaten track but trust me , it is addicting . ##### IAEO
+ASPECT: fajita salad, colorado, fajitas. CATEGORY: food quality, food quality, food quality. OPINION: delicious, delicious, delicious. SENTIMENT: positive, positive, positive #####  , they do n ' t skimp on the fajita salad , which is delicious . ##### EAEO
+ASPECT: pizza, salads. CATEGORY: food quality, food quality. OPINION: delicious, fantastic. SENTIMENT: positive, positive #####  . i was a little surprised to find this pizza place tucked away in this part of manhattan ( the neighborhood is a bit rough around the edges ) but after one bite i knew i had stumbled across something special . . . the pizza and salads are delicious and fantastic . ##### EAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: great. SENTIMENT: positive #####  . this place is great ! ##### EAEO
+ASPECT: brocollis, brocollis. CATEGORY: food quality, food quality. OPINION: fresh, tasty. SENTIMENT: positive, positive #####  ; it has fresh brocollis that actually tastes like brocollis . ##### EAEO
+ASPECT: jellyfish, horse mackerel, blue fin tuna, sake ikura roll. CATEGORY: food quality, food quality, food quality, food quality. OPINION: good, good, good, good. SENTIMENT: positive, positive, positive, positive #####  . it has jellyfish , horse mackerel , blue fin tuna , sake ikura roll - all good . ##### EAEO
+ASPECT: food. CATEGORY: food quality. OPINION: disappointed. SENTIMENT: negative #####  . we were very disappointed with the food . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . please do n ' t waste your time . ##### IAIO
+ASPECT: egg white omelet, food. CATEGORY: food quality, food quality. OPINION: freshly prepared, freshly prepared. SENTIMENT: positive, positive #####  . the egg white omelet is freshly prepared for you on the spot . ##### EAEO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: neutral #####  . it was taken by the waiter . ##### IAIO
+ASPECT: ray ' s boathouse. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  and so what if its a bit noisy and crowded ? ##### EAIO
+ASPECT: band. CATEGORY: ambience general. OPINION: fun. SENTIMENT: negative #####  . i saw the band , which was fun but i ca n ' t imagine going there again . ##### EAEO
+ASPECT: null, null. CATEGORY: food quality, food quality. OPINION: tastly, flaky. SENTIMENT: positive, positive #####  . it ' s tastly , flaky and you can have it with or without the bagel . ##### IAEO
+ASPECT: place, place, food. CATEGORY: ambience general, ambience general, food quality. OPINION: relax, enjoy, finest quality. SENTIMENT: positive, positive, positive #####  . i came across this place by accident , and i ' m so glad i did , this is the finest quality italian food i have enjoyed in any place . . . so go relax and enjoy it ! ##### EAEO
+ASPECT: mango ginger creme brulee. CATEGORY: food quality. OPINION: yummy. SENTIMENT: positive #####  . try the mango ginger creme brulee for dessert - yummy ! ##### EAEO
+ASPECT: delivery. CATEGORY: service general. OPINION: appreciate. SENTIMENT: positive #####  . i appreciate the delivery . ##### EAEO
+ASPECT: environment, environment. CATEGORY: ambience general, ambience general. OPINION: warm, cosy. SENTIMENT: positive, positive #####  : i must say i was pleasantly surprised by the environment - warm and cosy on a cold winters evening . ##### EAEO
+ASPECT: null. CATEGORY: restaurant prices. OPINION: overpriced. SENTIMENT: negative #####  . my wife and i were really looking forward to going here but were completely overpriced for the food and service we received . ##### IAEO
+ASPECT: place, place. CATEGORY: ambience general, ambience general. OPINION: charming, relaxing. SENTIMENT: positive, positive #####  . . . this is such a charming and relaxing place . ##### EAEO
+ASPECT: pizza. CATEGORY: food quality. OPINION: problem. SENTIMENT: negative #####  . . . i had pizza for the first time in new york and it was a big problem . ##### EAEO
+ASPECT: ambiance, ambiance. CATEGORY: ambience general, ambience general. OPINION: peaceful, relaxing. SENTIMENT: positive, positive #####  . . . what really sets it apart is the ambiance , which is incredibly peaceful and relaxing . ##### EAEO
+ASPECT: service. CATEGORY: service general. OPINION: awesome. SENTIMENT: positive #####  . the service is awesome . ##### EAEO
+ASPECT: waiter. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  . the waiter came over and poured us each a glass of wine from the list of recommended wines . ##### EAIO
+ASPECT: bottle of wine. CATEGORY: drinks quality. OPINION: great. SENTIMENT: positive #####  . i ca n ' t imagine a better way to spend a saturday evening than with a few friends , a bottle of wine , and some delicious italian food . ##### EAEO
+ASPECT: service, service. CATEGORY: service general, service general. OPINION: courteous, attentive. SENTIMENT: positive, positive #####  . i was offered an open faced cheese sandwich , which i did n ' t know they had , which was courteous and attentive of the waiter . ##### EAEO
+ASPECT: null, null. CATEGORY: restaurant prices, location general. OPINION: cheap, cheap. SENTIMENT: positive, positive #####  . go here for cheap eats and fun . ##### IAEO
+ASPECT: spot. CATEGORY: restaurant general. OPINION: favorite. SENTIMENT: positive #####  . i keep coming back to this spot as one of my favorite restaurants in nyc . ##### EAEO
+ASPECT: pancakes, pancakes. CATEGORY: food styleoptions, food prices. OPINION: null, null. SENTIMENT: negative, negative #####  . there are many places that serve pancakes for $ 3 - $ 4 , so these $ 8 - $ 10 pancakes are a bit rich for my blood . ##### EAIO
+ASPECT: null. CATEGORY: food quality. OPINION: delicious. SENTIMENT: positive #####  . everyone raves about how delicious it is . ##### IAEO
+ASPECT: place. CATEGORY: restaurant general. OPINION: null. SENTIMENT: negative #####  . this place will leave you wishing you could take back your dining experience . ##### EAIO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  you will definitely return . ##### IAIO
+ASPECT: null. CATEGORY: service general. OPINION: null. SENTIMENT: negative #####  . i have been there many times and every single time i ' ve been charged a different amount . ##### IAIO
+ASPECT: null. CATEGORY: restaurant miscellaneous. OPINION: null. SENTIMENT: negative #####  ! beware of the service ! ##### IAIO
+ASPECT: saag, paneer, korma. CATEGORY: food quality, food quality, food quality. OPINION: recommend, recommend, recommend. SENTIMENT: positive, positive, positive #####  i recommend the saag paneer and the korma . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: super. SENTIMENT: positive #####  : what a super duper delight . ##### IAEO
+ASPECT: prawns, batter, walnuts, walnuts. CATEGORY: food quality, food quality, food quality, food quality. OPINION: fresh, crispiness, crunchy, tasty. SENTIMENT: positive, positive, positive, positive #####  . i had the prawns , batter was light and crispiness , crunchy walnuts tasted great . ##### EAEO
+ASPECT: spanish mackeral special appetizer, box sushi. CATEGORY: food quality, food quality. OPINION: amazing, perfect. SENTIMENT: positive, positive #####  . spanish mackeral special appetizer was amazing , box sushi was perfect . ##### EAEO
+ASPECT: server. CATEGORY: service general. OPINION: attentive. SENTIMENT: positive #####  . . . we were greeted promptly and attentively by the server . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: reliable. SENTIMENT: positive #####  . this is a reliable bet ! ##### IAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  keep on coming back ##### IAIO
+ASPECT: seafood dinners. CATEGORY: food quality. OPINION: high quality. SENTIMENT: positive #####  . the seafood dinners are of high quality . ##### EAEO
+ASPECT: restaurant, decor, customer service, manager. CATEGORY: restaurant general, ambience general, service general, service general. OPINION: best, great, great, friendly. SENTIMENT: positive, positive, positive, positive #####  . i have to say that this is one of the best restaurant on the upper east side , great decor , great customer service , even the manager is friendly and accommodating . ##### EAEO
+ASPECT: service. CATEGORY: service general. OPINION: decent. SENTIMENT: neutral #####  . overall , i thought the service was decent . ##### EAEO
+ASPECT: food, margaritas. CATEGORY: food quality, drinks quality. OPINION: great, better. SENTIMENT: positive, positive #####  . this place has great food and better margaritas . ##### EAEO
+ASPECT: bartender. CATEGORY: service general. OPINION: null. SENTIMENT: positive #####  : he made my evening . ##### EAIO
+ASPECT: pizza ensalata. CATEGORY: food quality. OPINION: try. SENTIMENT: positive #####  . try the pizza ensalata . ##### EAEO
+ASPECT: sushi, sushi, sushi, sushi, sushi, sushi. CATEGORY: food quality, food quality, food quality, food quality, food quality, food quality. OPINION: best, delicious, amazing, fantastic, suculent, perfect. SENTIMENT: positive, positive, positive, positive, positive, positive #####  . the sushi here is amazing , delicious , the best i have ever had , the perfect combination of suculent , fresh fish , and rice , fantastic . ##### EAEO
+ASPECT: null. CATEGORY: restaurant general. OPINION: null. SENTIMENT: positive #####  ca n ' t wait to go back again . ##### IAIO
+ASPECT: menu. CATEGORY: food quality. OPINION: excellent. SENTIMENT: positive #####  . i had the menu , which was an excellent choice . ##### EAEO
+ASPECT: null. CATEGORY: food quality. OPINION: good. SENTIMENT: positive #####  . i have been coming here for about 10 years and it remains good . ##### IAEO
